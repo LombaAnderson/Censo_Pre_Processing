@@ -18,7 +18,7 @@ Matplotlib, Seaborn, Pandas e Plotly. Foram feitas análises do conjunto de dado
 
 # Como executar o projeto
 
-Pré-requisitos: Possuir instalado Python, Anaconda e acessar o Jubyter Notebook 
+Pré-requisitos: Possuir instalado Python, Anaconda e acessar o Jupyter Notebook 
 
 ```bash
 # clonar repositório
