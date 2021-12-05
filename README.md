@@ -9,6 +9,7 @@ Matplotlib, Seaborn, Pandas e Plotly. Foram feitas análises do conjunto de dado
 # Tecnologias utilizadas
 
 - Anaconda
+- Python
 - Jupyter Notebook
 - Pandas
 - Numpy
