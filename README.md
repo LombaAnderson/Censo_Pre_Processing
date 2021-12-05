@@ -3,6 +3,7 @@
 
 # Sobre o projeto
 Esse projeto se trata do pré-processamento da base de dados census retirada do site UCI Machine(https://archive.ics.uci.edu/ml/datasets/census+income) Foram utilizadas bibliotecas de visualização do Python:
+
 Matplotlib, Seaborn, Pandas e Plotly. Foram feitas análises do conjunto de dados, Visualização dos dados e divisão dos dados entre previsores e classe para posterior classificação com os algoritmos Naïve Bayes, Árvore de decisão. 
 
 # Tecnologias utilizadas
